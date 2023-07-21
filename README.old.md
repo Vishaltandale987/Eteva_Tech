@@ -1,1 +1,0 @@
-# eteva_tech
