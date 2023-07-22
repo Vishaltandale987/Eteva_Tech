@@ -12,7 +12,7 @@ List out the key features of your application.
 
 - On the landing page, you can see a product list. When you click on a product, it shows the details of the product (image, name of product, price, quantity, Add to Cart button).
 - When you click on the Add to Cart button, The particular product is added to your cart.
-- On the cart page, you can see the products and their total price.
+- On the cart page, you can see the products and their total price and also user can delete product from cart.
 
 
 
