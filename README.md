@@ -4,7 +4,7 @@
 Eteva_tech is E-commerce platform where the user can come and view products. It has a different pages where user can do a lot of things.
 
 ## Deplolyed App
-eteva-tech.vercel.app
+[eteva-tech.vercel.app](https://eteva-tech.vercel.app/)
 
 
 ## Features
