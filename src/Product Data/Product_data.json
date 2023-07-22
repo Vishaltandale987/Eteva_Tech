@@ -1,0 +1,184 @@
+{
+    "products": [
+        {
+            "image": "https://m.media-amazon.com/images/I/81YybWAIPyL._AC_UL320_.jpg",
+            "price": 499,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71WmwSot-vL._AC_UL320_.jpg",
+            "price": 649,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/711eo100eOL._AC_UL320_.jpg",
+            "price": 1699,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/8162qW2-OGL._AC_UL320_.jpg",
+            "price": 1663,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/51lBQg+h8UL._AC_UL320_.jpg",
+            "price": 1563,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81b-2ZVYpjL._AC_UL320_.jpg",
+            "price": 1234,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81-BXDBJQIL._AC_UL320_.jpg",
+            "price": 749,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/711eo100eOL._AC_UL320_.jpg",
+            "price": 1235,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81nXqAtjL8L._AC_UL320_.jpg",
+            "price": 589,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/51lBQg+h8UL._AC_UL320_.jpg",
+            "price": 1563,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/610FUjGAqBL._AC_UL320_.jpg",
+            "price": 489,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71m0PW9bIML._AC_UL320_.jpg",
+            "price": 429,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81-zGPqBHQL._AC_UL320_.jpg",
+            "price": 1524,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/61D3NhllkbL._AC_UL320_.jpg",
+            "price": 629,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81sdjnrLd-L._AC_UL320_.jpg",
+            "price": 1903,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71vp8Lec9JL._AC_UL320_.jpg",
+            "price": 474,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/61hh8wS16wL._AC_UL320_.jpg",
+            "price": 249,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/718Mqe-8biL._AC_UL320_.jpg",
+            "price": 929,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/51QeCqn2+9L._AC_UL320_.jpg",
+            "price": 249,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71DaKKQ93ZL._AC_UL320_.jpg",
+            "price": 459,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71m0W58-zQL._AC_UL320_.jpg",
+            "price": 670,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71z3SggPs5L._AC_UL320_.jpg",
+            "price": 495,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/61VYhbu1a-L._AC_UL320_.jpg",
+            "price": 689,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81y1h+SZWBL._AC_UL320_.jpg",
+            "price": 749,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81XnCee2wtL._AC_UL320_.jpg",
+            "price": 1929,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81z29+QFvkL._AC_UL320_.jpg",
+            "price": 475,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81lMJ-6m-1L._AC_UL320_.jpg",
+            "price": 569,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/61ZPKT4-37L._AC_UL320_.jpg",
+            "price": 494,
+            "quantity": 4,
+            "name": "t-shirt"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81yDwVS3zsL._AC_UL320_.jpg",
+            "price": 1919,
+            "quantity": 4,
+            "name": "jeans"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/817p1El6+wL._AC_UL320_.jpg",
+            "price": 1869,
+            "quantity": 4,
+            "name": "jeans"
+        }
+    ]
+}

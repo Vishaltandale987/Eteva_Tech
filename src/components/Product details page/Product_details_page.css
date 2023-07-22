@@ -1,0 +1,30 @@
+#Product_details_page_parent{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10em;
+  margin-top: 2em;
+}
+
+.images{
+    width: 40%;
+    height: 25em;
+    padding-top: 1em;
+  
+    
+}
+
+.button{
+  margin-bottom: 2em;
+
+}
+.text{
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    padding: 0.3em;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+}

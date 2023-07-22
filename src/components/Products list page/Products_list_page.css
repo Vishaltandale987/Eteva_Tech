@@ -1,0 +1,60 @@
+
+
+.Products_list_page_parent{
+width: 95%;
+text-align: center;
+margin: auto;
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 3em;
+
+}
+
+.Products_list_page_chlid{
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 1em;
+}
+
+.images{
+    width: 80%;
+    height: 30em;
+    margin: auto;
+
+}
+
+.text{
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    padding: 1em;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media screen and (max-width:720px){
+    .Products_list_page_parent{
+        width: 95%;
+        text-align: center;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 3em;
+        
+}
+}
+
+
+@media screen and (max-width: 600px) {
+    .Products_list_page_parent{
+        width: 95%;
+        text-align: center;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 3em;
+        
+}
+}
