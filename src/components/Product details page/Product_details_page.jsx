@@ -13,7 +13,7 @@ function Product_details_page() {
     cart_data.push(data)
 
     localStorage.setItem("cart", JSON.stringify(cart_data))
-    // window.location.reload(false);
+    window.location.reload(false);
   }
 
   return (

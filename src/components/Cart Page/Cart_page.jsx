@@ -27,6 +27,7 @@ const delete_handle = (indexss) => {
   let aaa = cart_data.filter((el,index) => index !== indexss);
   localStorage.setItem("cart", JSON.stringify(aaa))
   
+  window.location.reload(false);
 
   
 }
@@ -67,7 +68,7 @@ const delete_handle = (indexss) => {
             <Tr>
               <Th>Name</Th>
               <Th>Price</Th>
-              <Th isNumeric>Quantity</Th>
+              <Th isNumeric>Delete</Th>
             </Tr>
           </Thead>
           <Tbody>
@@ -76,7 +77,7 @@ const delete_handle = (indexss) => {
                 <Tr key={index}>
                   <Td>{el.name}</Td>
                   <Td>₹{el.price}</Td>
-                  <Td isNumeric >{el.quantity}</Td>
+                  <Td isNumeric onClick={() => delete_handle(index)}><DeleteIcon/></Td>
                 </Tr>
               );
             })}
